@@ -8,11 +8,11 @@ clc
 
 b1 = 0.5 ;
 
-P = -100 ; % fy applied to node 9 [N]
+P = -500 ; % fy applied to node 9 [N]
 
 % commont to all elements
-ePar_ref.b = 0.100 ;
-ePar_ref.h = 0.100 ;
+ePar_ref.b = 0.200 ;
+ePar_ref.h = 0.200 ;
 ePar_ref.s = 0.005 ;
 ePar_ref.E = 210e9 ;
 ePar_ref.Nu = 0.3 ;
